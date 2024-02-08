@@ -1,0 +1,16 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/easy/chain_add.py
+File Name chain_add
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ t_7618_0 = 1 + 2
+t_7931_1 = t_7618_0 + 3
+t_1246_2 = t_7931_1 + 4
+t_6201_3 = t_1246_2 + 5
+print(t_6201_3) 
+
+Getting Flat Code: Success
+
+Done saving!

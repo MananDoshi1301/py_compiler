@@ -1,0 +1,15 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/easy/add_input.py
+File Name add_input
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ t_4730_0 = eval(input())
+t_3289_1 = eval(input())
+t_9358_2 = t_4730_0 + t_3289_1
+print(t_9358_2) 
+
+Getting Flat Code: Success
+
+Done saving!

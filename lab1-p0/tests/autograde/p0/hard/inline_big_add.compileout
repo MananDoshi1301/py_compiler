@@ -1,0 +1,20 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/hard/inline_big_add.py
+File Name inline_big_add
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ x = 51474836
+t_1243_0 = x + x
+t_3157_1 = t_1243_0 + x
+t_2781_2 = t_3157_1 + x
+t_9421_3 = t_2781_2 + x
+t_6379_4 = t_9421_3 + x
+t_2843_5 = t_6379_4 + x
+t_1729_6 = t_2843_5 + x
+print(t_1729_6) 
+
+Getting Flat Code: Success
+
+Done saving!

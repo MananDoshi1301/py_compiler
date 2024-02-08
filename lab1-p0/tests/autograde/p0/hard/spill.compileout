@@ -1,0 +1,25 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/hard/spill.py
+File Name spill
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ x = 1
+y = 2
+z = 3
+w = 23
+t_382_0 = 2
+t_8630_1 = -t_382_0
+v = t_8630_1
+k = 12
+t_7298_2 = x + y
+t_5180_3 = t_7298_2 + z
+t_786_4 = t_5180_3 + w
+t_6970_5 = t_786_4 + v
+t_8913_6 = t_6970_5 + k
+print(t_8913_6) 
+
+Getting Flat Code: Success
+
+Done saving!

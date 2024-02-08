@@ -1,0 +1,17 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/easy/sub_var.py
+File Name sub_var
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ x = 1
+t_7291_0 = 2
+t_4136_1 = -t_7291_0
+y = t_4136_1
+t_4513_2 = x + y
+print(t_4513_2) 
+
+Getting Flat Code: Success
+
+Done saving!

@@ -1,0 +1,19 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/medium/chain_unary.py
+File Name chain_unary
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ t_3560_0 = 2
+t_6703_1 = -t_3560_0
+t_3489_2 = -t_6703_1
+t_162_3 = -t_3489_2
+t_1572_4 = -t_162_3
+t_7921_5 = -t_1572_4
+t_8037_6 = -t_7921_5
+print(t_8037_6) 
+
+Getting Flat Code: Success
+
+Done saving!

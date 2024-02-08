@@ -1,0 +1,17 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/medium/unary_paren.py
+File Name unary_paren
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ t_6084_0 = 2
+t_5413_1 = -t_6084_0
+t_1394_2 = 1 + t_5413_1
+t_4892_3 = -t_1394_2
+x = t_4892_3
+print(x) 
+
+Getting Flat Code: Success
+
+Done saving!

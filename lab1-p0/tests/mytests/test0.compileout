@@ -1,0 +1,13 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/mytests/test0.py
+File Name test0
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ t_6285_0 = 1 + 2
+print(t_6285_0) 
+
+Getting Flat Code: Success
+
+Done saving!

@@ -1,0 +1,25 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/medium/inline_add.py
+File Name inline_add
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ x = 2
+t_1295_0 = x + 1
+t_2378_1 = t_1295_0 + 2
+t_6319_2 = t_2378_1 + 3
+t_7238_3 = t_6319_2 + 4
+t_9175_4 = t_7238_3 + 5
+t_942_5 = t_9175_4 + 6
+t_7459_6 = t_942_5 + 7
+t_5409_7 = t_7459_6 + 8
+t_6592_8 = t_5409_7 + 9
+t_6027_9 = t_6592_8 + 10
+t_4287_10 = t_6027_9 + 11
+t_8793_11 = t_4287_10 + 12
+print(t_8793_11) 
+
+Getting Flat Code: Success
+
+Done saving!

@@ -1,0 +1,23 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/hard/nested_op.py
+File Name nested_op
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ x = 12
+t_9748_0 = eval(input())
+t_9842_1 = 2
+t_8735_2 = -t_9842_1
+t_6128_3 = x + t_8735_2
+t_9583_4 = t_9748_0 + t_6128_3
+t_8471_5 = -x
+t_8754_6 = t_9583_4 + t_8471_5
+t_3862_7 = -t_8754_6
+t_2431_8 = 2 + t_3862_7
+t_5712_9 = 3 + t_2431_8
+print(t_5712_9) 
+
+Getting Flat Code: Success
+
+Done saving!

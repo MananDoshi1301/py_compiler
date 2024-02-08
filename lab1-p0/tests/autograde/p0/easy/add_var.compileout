@@ -1,0 +1,15 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/easy/add_var.py
+File Name add_var
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ x = 1
+y = 2
+t_4953_0 = x + y
+print(t_4953_0) 
+
+Getting Flat Code: Success
+
+Done saving!

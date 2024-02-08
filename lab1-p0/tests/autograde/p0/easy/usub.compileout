@@ -1,0 +1,14 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/easy/usub.py
+File Name usub
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ t_4235_0 = 1
+t_5809_1 = -t_4235_0
+print(t_5809_1) 
+
+Getting Flat Code: Success
+
+Done saving!

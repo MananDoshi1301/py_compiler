@@ -1,0 +1,20 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/hard/nameconflict2.py
+File Name nameconflict2
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ z = 4
+w = 0
+z = 1
+t_7608_0 = w + z
+x = t_7608_0
+t_8439_1 = x + 1
+y = t_8439_1
+w = y
+print(w) 
+
+Getting Flat Code: Success
+
+Done saving!

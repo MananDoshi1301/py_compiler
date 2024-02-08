@@ -1,0 +1,23 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/mytests/test1.py
+File Name test1
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ x = 12
+t_721_0 = eval(input())
+t_1592_1 = 2
+t_3258_2 = -t_1592_1
+t_7198_3 = x + t_3258_2
+t_7590_4 = t_721_0 + t_7198_3
+t_6479_5 = -x
+t_9021_6 = t_7590_4 + t_6479_5
+t_1469_7 = -t_9021_6
+t_3465_8 = 2 + t_1469_7
+t_6374_9 = 3 + t_3465_8
+print(t_6374_9) 
+
+Getting Flat Code: Success
+
+Done saving!

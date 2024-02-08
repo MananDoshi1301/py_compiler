@@ -1,0 +1,19 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/hard/add_chained_usub.py
+File Name add_chained_usub
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ t_6479_0 = 30
+t_3198_1 = -t_6479_0
+t_4698_2 = -t_3198_1
+t_2381_3 = -t_4698_2
+t_6531_4 = -t_2381_3
+t_6974_5 = 20 + t_6531_4
+x = t_6974_5
+print(x) 
+
+Getting Flat Code: Success
+
+Done saving!

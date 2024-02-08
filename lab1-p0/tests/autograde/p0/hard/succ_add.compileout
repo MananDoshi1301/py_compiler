@@ -1,0 +1,40 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/hard/succ_add.py
+File Name succ_add
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ t_756_0 = eval(input())
+t_5306_1 = 1 + t_756_0
+x = t_5306_1
+t_5718_2 = x + x
+y = t_5718_2
+t_4923_3 = y + y
+z = t_4923_3
+t_8354_4 = z + z
+w = t_8354_4
+t_4162_5 = w + w
+a = t_4162_5
+t_1835_6 = a + a
+b = t_1835_6
+t_9471_7 = b + b
+c = t_9471_7
+t_9725_8 = c + c
+d = t_9725_8
+t_1039_9 = d + d
+e = t_1039_9
+t_7308_10 = x + y
+t_4709_11 = t_7308_10 + z
+t_9328_12 = t_4709_11 + w
+t_6197_13 = t_9328_12 + a
+t_4615_14 = t_6197_13 + b
+t_8175_15 = t_4615_14 + c
+t_6831_16 = t_8175_15 + d
+t_1508_17 = t_6831_16 + e
+f = t_1508_17
+print(c) 
+
+Getting Flat Code: Success
+
+Done saving!

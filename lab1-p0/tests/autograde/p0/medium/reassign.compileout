@@ -1,0 +1,15 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/medium/reassign.py
+File Name reassign
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ tmp0 = 23
+t_417_0 = tmp0 + 1
+tmp0 = t_417_0
+print(tmp0) 
+
+Getting Flat Code: Success
+
+Done saving!

@@ -1,0 +1,21 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/hard/lexver1.py
+File Name lexver1
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ _tmp1 = 23
+t_784_0 = 6
+t_3618_1 = -t_784_0
+tmp2_ = t_3618_1
+tmp_3 = 12
+t_6079_2 = _tmp1 + tmp2_
+t_9257_3 = t_6079_2 + tmp_3
+print(t_9257_3)
+t_1794_4 = tmp2_ + tmp_3
+print(t_1794_4) 
+
+Getting Flat Code: Success
+
+Done saving!

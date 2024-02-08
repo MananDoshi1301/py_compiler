@@ -1,0 +1,15 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/medium/discard_input.py
+File Name discard_input
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ t_4683_0 = eval(input())
+t_1697_1 = eval(input())
+t_9430_2 = t_4683_0 + t_1697_1
+t_5063_3 = eval(input()) 
+
+Getting Flat Code: Success
+
+Done saving!

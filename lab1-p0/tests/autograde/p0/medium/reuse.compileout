@@ -1,0 +1,21 @@
+File Dir /home/jovyan/Compiler/lab1-p0/tests/autograde/p0/medium/reuse.py
+File Name reuse
+Code Reading: Success
+
+Code Flattening: Success
+
+
+ t_4123_0 = eval(input())
+t_1870_1 = -t_4123_0
+tmp0 = t_1870_1
+t_914_2 = tmp0 + 23
+tmp1 = t_914_2
+t_9105_3 = eval(input())
+tmp0 = t_9105_3
+t_9624_4 = tmp0 + tmp1
+tmp2 = t_9624_4
+print(tmp2) 
+
+Getting Flat Code: Success
+
+Done saving!
